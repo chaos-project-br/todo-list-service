@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class TodoListServiceApplication
 
 fun main(args: Array<String>) {
-	runApplication<TodoListServiceApplication>(*args)
+    runApplication<TodoListServiceApplication>(*args)
 }
